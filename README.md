@@ -2,9 +2,8 @@
 An ML model that analyzes car prices based on its age and year
 Here’s a simple **README** for your Car Price Prediction project:
 
-# Car Price Prediction:
 
-This project predicts the **selling price of used cars** based on features like present price, kilometers driven, fuel type, selling type, transmission, ownership, and car age.
+This project predicts the selling price of used cars based on features like present price, kilometers driven, fuel type, selling type, transmission, ownership, and car age.
 
 ## Dataset
  Source: `cardata.csv.csv`
